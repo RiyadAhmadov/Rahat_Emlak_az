@@ -1,4 +1,4 @@
-# Rahat_Emlak_az
+# RahatEmlak.az
 
 ![Beautiful Soup](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200622222131/What-is-Web-Scraping-and-How-to-Use-It.png)
 
